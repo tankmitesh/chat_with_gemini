@@ -43,8 +43,8 @@ This will start the generative AI application using the Gemini AI API.
 - **`requirements.txt`**: Contains the list of Python packages required for the project.
 - **`.env`**: Configuration file to store sensitive information, like the Gemini API token.
 - **`run.py`**: The main file to execute the generative AI application.
-- **data_generation**: This file contains LLM text generation function and streamlit based frontend generation code.
-- **prompt_template**: Contains summary, question and code analysis based prompt for text generation.  
+- **`data_generation`**: This file contains LLM text generation function and streamlit based frontend generation code.
+- **`prompt_template`**: Contains summary, question and code analysis based prompt for text generation.  
 
 
 ## License
